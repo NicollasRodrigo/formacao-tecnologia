@@ -6,7 +6,9 @@ Este repositório reúne aulas, exercícios e projetos de JavaScript de forma or
 
 ## 👤 Sobre mim
 
-Sou Nicollas Rodrigo, estudante de Análise e Desenvolvimento de Sistemas, com foco em JavaScript, HTML, CSS, lógica de programação e desenvolvimento web. Este espaço representa meu processo de estudo, evolução e organização técnica.
+Sou Nicollas Rodrigo, estudante de Análise e Desenvolvimento de Sistemas, com foco em JavaScript, HTML, CSS, lógica de programação e desenvolvimento web. Estou cursando faculdade nessa área e utilizando este repositório como um registro prático da minha evolução, organização e dedicação aos estudos.
+
+Este espaço representa meu processo de estudo, evolução e organização técnica.
 
 ## 🔗 Acesso rápido
 
