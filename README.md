@@ -10,16 +10,17 @@ Este espaço é mais do que uma coleção de arquivos: é um registro transparen
 
 ## 📑 Índice
 
-- [Apresentação pessoal](#-apresentação-pessoal)
-- [Objetivo do repositório](#-objetivo-do-repositório)
-- [Minha trajetória nos estudos](#-minha-trajetória-nos-estudos)
-- [Tecnologias e conceitos](#️-tecnologias-e-conceitos-que-estou-aprendendo)
-- [Roadmap de estudos](#-roadmap-de-estudos)
-- [Estrutura das pastas](#-estrutura-das-pastas)
-- [Como executar os códigos](#-como-executar-os-códigos)
-- [Objetivos profissionais](#-objetivos-profissionais)
-- [Feedbacks e sugestões](#-feedbacks-e-sugestões)
-- [Mensagem final](#-mensagem-final)
+- [📚 Índice de Estudos](./Exercicios/00-indice.md)
+- [✨ Apresentação pessoal](#-apresentação-pessoal)
+- [🎯 Objetivo do repositório](#-objetivo-do-repositório)
+- [📚 Minha trajetória nos estudos](#-minha-trajetória-nos-estudos)
+- [🛠️ Tecnologias e conceitos](#️-tecnologias-e-conceitos-que-estou-aprendendo)
+- [🧭 Roadmap de estudos](#-roadmap-de-estudos)
+- [📁 Estrutura das pastas](#-estrutura-das-pastas)
+- [▶️ Como executar os códigos](#-como-executar-os-códigos)
+- [💼 Objetivos profissionais](#-objetivos-profissionais)
+- [🤝 Feedbacks e sugestões](#-feedbacks-e-sugestões)
+- [🌱 Mensagem final](#-mensagem-final)
 
 ## ✨ Apresentação pessoal
 
