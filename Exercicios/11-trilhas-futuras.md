@@ -5,7 +5,7 @@ Este espaço é um guia para organizar os próximos passos da sua jornada de apr
 ## 📚 Trilhas sugeridas
 
 - [⚡ JavaScript](https://github.com/NicollasRodrigo/CURSO-DE-JAVASCRIPT)
-- [🐍 Python](https://github.com/NicollasRodrigo)
+- [🐍 Python](https://github.com/NicollasRodrigo/CURSO-DE-PYTHON.git)
 - [⚛️ React](https://github.com/NicollasRodrigo)
 - [🌐 Front-end](https://github.com/NicollasRodrigo)
 - [🧠 Back-end](https://github.com/NicollasRodrigo)
