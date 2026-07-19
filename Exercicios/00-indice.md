@@ -13,6 +13,8 @@ Este é o ponto de entrada para sua jornada de aprendizado em JavaScript.
 - [🧩 Módulo 06 - Objetos](./06-objetos.md)
 - [⚙️ Módulo 07 - Funções](./07-funcoes.md)
 - [🛠️ Módulo 08 - Projetos](./08-projetos.md)
+- [🧪 Módulo 09 - Projetos Práticos](./09-projetos-praticos.md)
+- [📝 Módulo 10 - Anotações e Dicas](./10-anotacoes.md)
 
 ## 📝 Organização
 
@@ -21,3 +23,7 @@ Cada módulo funciona como uma página de estudos com navegação simples:
 - Anterior
 - Voltar ao Índice
 - Próximo
+
+## 🌟 Objetivo desta estrutura
+
+A ideia é transformar este repositório em um verdadeiro painel de estudos, com navegação intuitiva, organização progressiva e uma aparência mais profissional para quem visita o projeto.

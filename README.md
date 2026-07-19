@@ -1,12 +1,12 @@
 # 🚀 Repositório de Estudos em JavaScript e Desenvolvimento
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow) ![HTML](https://img.shields.io/badge/HTML5-%23E34F26-orange) ![CSS](https://img.shields.io/badge/CSS3-%231572B6-blue)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow) ![HTML](https://img.shields.io/badge/HTML5-%23E34F26-orange) ![CSS](https://img.shields.io/badge/CSS3-%231572B6-blue) ![GitHub](https://img.shields.io/badge/GitHub-Portf%C3%B3lio-181717?logo=github)
 
-Bem-vindo ao meu repositório de estudos! Este projeto reúne os códigos, exercícios, projetos e anotações que venho desenvolvendo ao longo da minha jornada na programação, com foco principal em JavaScript e no desenvolvimento web.
+Bem-vindo ao meu repositório de estudos! Aqui reunio os códigos, exercícios, projetos e anotações que venho desenvolvendo ao longo da minha jornada na programação, com foco principal em JavaScript e desenvolvimento web.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), tenho 18 anos e estou construindo este repositório como uma forma de acompanhar minha evolução, registrar meus aprendizados e demonstrar meu progresso ao longo do tempo.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), tenho 18 anos e estou construindo este repositório como uma forma de acompanhar minha evolução, registrar meus aprendizados e demonstrar meu crescimento ao longo do tempo.
 
-Este espaço é mais do que uma coleção de arquivos: é um registro transparente da minha trajetória, mostrando desde os primeiros exercícios até projetos mais completos e mais desafiadores.
+Este espaço é mais do que uma coleção de arquivos: é um registro transparente da minha trajetória, mostrando desde os primeiros exercícios até projetos mais completos e desafiadores.
 
 ## 📑 Índice
 
@@ -18,6 +18,7 @@ Este espaço é mais do que uma coleção de arquivos: é um registro transparen
 - [🧭 Roadmap de estudos](#-roadmap-de-estudos)
 - [📁 Estrutura das pastas](#-estrutura-das-pastas)
 - [▶️ Como executar os códigos](#-como-executar-os-códigos)
+- [📈 Progresso e evolução](#-progresso-e-evolução)
 - [💼 Objetivos profissionais](#-objetivos-profissionais)
 - [🤝 Feedbacks e sugestões](#-feedbacks-e-sugestões)
 - [🌱 Mensagem final](#-mensagem-final)
@@ -89,12 +90,13 @@ Minha intenção é seguir uma rotina de aprendizado progressiva e consistente. 
 
 ## 📁 Estrutura das pastas
 
-A estrutura deste repositório foi organizada de forma a facilitar a navegação e a compreensão do conteúdo:
+A estrutura deste repositório foi organizada para facilitar a navegação e a compreensão do conteúdo:
 
-- aulas/: contém os exercícios e exemplos separados por tema ou aula;
-- assets/: recursos visuais e arquivos estáticos compartilhados;
-- tests/: arquivos de testes e experimentos;
-- arquivos principais como index.html e paragrafos.html servem como pontos de entrada para alguns exemplos.
+- [Exercicios/](./Exercicios/00-indice.md): páginas de estudo e módulos organizados;
+- `aulaNN-tema`: exercícios e exemplos separados por aula, com nomes baseados no conteúdo estudado;
+- [assets/](./assets): recursos visuais e arquivos estáticos compartilhados;
+- [tests/](./tests): arquivos de testes e experimentos;
+- arquivos principais como [index.html](./index.html) e [paragrafos.html](./paragrafos.html) servem como pontos de entrada para alguns exemplos.
 
 Essa organização ajuda a manter o repositório mais claro, com uma lógica mais próxima de um projeto em desenvolvimento.
 
@@ -107,6 +109,17 @@ Exemplos básicos:
 - abra um arquivo HTML diretamente no navegador;
 - use o terminal para rodar scripts JavaScript com Node.js quando aplicável;
 - explore as pastas de cada aula para entender o contexto do exercício.
+
+## 📈 Progresso e evolução
+
+Este repositório também é uma forma de medir meu progresso. Ao longo do tempo, espero transformar conteúdos simples em projetos mais completos e demonstrar um crescimento real em organização, lógica e prática.
+
+Minha evolução será percebida em diferentes níveis:
+
+- melhora na clareza do código;
+- maior domínio de conceitos básicos e intermediários;
+- crescimento na capacidade de criar soluções mais autônomas;
+- evolução na forma de documentar e apresentar o trabalho.
 
 ## 💼 Objetivos profissionais
 
