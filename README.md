@@ -25,7 +25,7 @@ Este espaço é mais do que uma coleção de arquivos: é um registro transparen
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas, em uma fase importante da minha formação acadêmica, dedicando-me ao estudo de tecnologia com bastante empenho e consistência. A programação passou a fazer parte da minha rotina de estudos e, aos poucos, vem se tornando uma verdadeira paixão e uma direção profissional clara para o meu futuro.
 
-Também sou uma pessoa com TEA (Transtorno do Espectro Autista), com grau 1, e isso faz parte da minha identidade e da forma como enfrento desafios, aprendo e sigo em frente. Tenho buscado transformar minhas particularidades em forças, com disciplina, persistência e muita dedicação. Acredito que o autismo não define minhas limitações, e sim a forma como encontro caminhos próprios para crescer, estudar e evoluir.
+Também sou uma pessoa com TEA (Transtorno do Espectro Autista), com grau 1, e isso faz parte da minha identidade e da forma como enfrento desafios, aprendo e sigo em frente. Tenho buscado transformar minhas particularidades em forças, com disciplina, persistência e muita dedicação. Acredito que minhas experiências e perspectivas únicas me ajudam a crescer de forma diferente, mas com igual determinação, e que isso pode se tornar uma grande vantagem na minha jornada profissional.
 
 Estou cursando ADS e busco, com disciplina e dedicação, construir uma base sólida para me tornar um desenvolvedor capaz de resolver problemas, aprender continuamente e contribuir com soluções úteis e bem estruturadas.
 
