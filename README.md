@@ -75,7 +75,7 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
 | JavaScript | [javascript](https://github.com/NicollasRodrigo/-Jornada-de-Estudos-Nicollas-Rodrigo/tree/main/javascript) | 🟡 Em andamento |
 | Lógica de Programação | [logica-programacao](https://github.com/NicollasRodrigo/logica-programacao) | 🟢 Noções básicas |
 | Git & GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | 🟢 Noções básicas |
-| Python | [CURSO-DE-PYTHON](https://github.com/NicollasRodrigo/CURSO-DE-PYTHON) | 🟢 Noções básicas |
+| Python | [estudos-python](https://github.com/NicollasRodrigo/estudos-python) | 🟢 Noções básicas |
 | React | [estudos-react](https://github.com/NicollasRodrigo/estudos-react) | ⚪ Planejado |
 | Node.js | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs) | ⚪ Planejado |
 | SQL | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql) | ⚪ Planejado |
