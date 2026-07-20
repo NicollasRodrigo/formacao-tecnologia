@@ -120,13 +120,8 @@ Estrutura atual deste repositório:
 
 ```text
 .
-├── README.md
 ├── LICENSE
-├── docs/
-├── assets/
-├── java/
-├── javascript/
-└── index.html
+├── README.md
 ```
 
 ---
