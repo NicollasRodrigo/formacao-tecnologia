@@ -22,8 +22,6 @@ Meu objetivo é iniciar minha carreira na área de tecnologia, aplicando meus co
 
 Acredito que ninguém evolui sozinho. Por isso, estou sempre aberto a feedbacks, novas experiências e oportunidades que contribuam para meu aprendizado e crescimento profissional.
 
-🚀 Sempre aprendendo, evoluindo e em busca de novos desafios na área de tecnologia.
-
 
 ---
 
