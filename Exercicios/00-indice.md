@@ -17,6 +17,6 @@ Este é o ponto de entrada para estudar JavaScript de forma organizada.
 - [📝 Módulo 10 - Anotações e Dicas](./10-anotacoes.md)
 - [🧭 Trilhas Futuras](./11-trilhas-futuras.md)
 
-## ✨ Objetivo
+## ✨ Propósito
 
 Manter a leitura simples, com links diretos para os tópicos principais e uma navegação mais leve.

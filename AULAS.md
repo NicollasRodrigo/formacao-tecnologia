@@ -1,6 +1,6 @@
 # 📚 Organização das aulas
 
-Este arquivo reúne as aulas de forma mais simples para facilitar a leitura e a navegação.
+Esta página reúne as aulas de forma clara e objetiva, para facilitar a navegação pelo repositório.
 
 ## 🚀 Fundamentos
 
