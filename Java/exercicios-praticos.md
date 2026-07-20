@@ -1,4 +1,4 @@
-# 🛠️ Exercícios práticos em Java
+# 🛠️ Exercícios Práticos de Java
 
 ## Conteúdo
 
@@ -6,6 +6,6 @@
 - Exercícios com classes
 - Exercícios com coleções
 
-## Voltar
+## Links úteis
 
-- [Voltar ao início da seção Java](./README.md)
+- [Voltar ao índice](./README.md)

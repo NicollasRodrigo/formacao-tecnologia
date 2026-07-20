@@ -7,6 +7,6 @@
 - Operadores
 - Entrada e saída
 
-## Voltar
+## Links úteis
 
-- [Voltar ao início da seção Java](./README.md)
+- [Voltar ao índice](./README.md)

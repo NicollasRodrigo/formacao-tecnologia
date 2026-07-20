@@ -7,6 +7,6 @@
 - Map
 - Iteração
 
-## Voltar
+## Links úteis
 
-- [Voltar ao início da seção Java](./README.md)
+- [Voltar ao índice](./README.md)

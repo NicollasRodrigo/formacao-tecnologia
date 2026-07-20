@@ -1,12 +1,10 @@
-# 🧠 Orientação a objetos em Java
+# 🧠 Orientação a Objetos em Java
 
 ## Conteúdo
-
 - Classes
 - Objetos
 - Herança
 - Polimorfismo
 
-## Voltar
-
-- [Voltar ao início da seção Java](./README.md)
+## Links úteis
+- [Voltar ao índice](./README.md)
