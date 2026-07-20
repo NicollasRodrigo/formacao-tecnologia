@@ -10,13 +10,14 @@ Criei este repositório para acompanhar minha evolução, manter meus estudos or
 
 # 👨‍💻 Sobre Mim
 
-Meu nome é **Nicollas Rodrigo** e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
+Meu nome é **Nicollas Rodrigo** e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Também possuo **Transtorno do Espectro Autista (TEA) – Nível 1 de suporte**.
 
 Tenho interesse em desenvolvimento de software e estou construindo minha base de conhecimentos por meio da graduação, de cursos e da prática constante.
 
 Meu objetivo é fortalecer meus fundamentos em programação, evoluir com consistência e me preparar para conquistar minha primeira oportunidade profissional na área de tecnologia.
 
 Também acredito que ninguém evolui sozinho. Por isso, estou sempre aberto a feedbacks, sugestões e boas práticas que possam contribuir para o meu aprendizado e crescimento como desenvolvedor.
+
 
 ---
 
@@ -158,7 +159,7 @@ Acredito que compartilhar conhecimento e receber orientações faz parte da evol
 
 * **GitHub:** https://github.com/NicollasRodrigo
 * **GitLab:** https://gitlab.com/NicollasRodrigo
-* **Discord:** 
+* **Discord:** nicollas.rodrigo_56592
 
 ---
 
