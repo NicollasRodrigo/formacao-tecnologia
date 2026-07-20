@@ -72,7 +72,7 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
 |------------|-------------|--------|
 | HTML | [estudos-html](https://github.com/NicollasRodrigo/estudos-html) | 🟡 Em andamento |
 | CSS | [estudos-css](https://github.com/NicollasRodrigo/estudos-css) | 🟡 Em andamento |
-| JavaScript | [javascript](https://github.com/NicollasRodrigo/-Jornada-de-Estudos-Nicollas-Rodrigo/tree/main/javascript) | 🟡 Em andamento |
+| JavaScript | [estudo-javascript](https://github.com/NicollasRodrigo/-Jornada-de-Estudos-Nicollas-Rodrigo/tree/main/javascript) | 🟡 Em andamento |
 | Lógica de Programação | [estudo-logica-programacao](https://github.com/NicollasRodrigo/estudo-logica-programacao) | 🟢 Noções básicas |
 | Git & GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | 🟢 Noções básicas |
 | Python | [estudos-python](https://github.com/NicollasRodrigo/estudos-python) | 🟢 Noções básicas |
