@@ -1,127 +1,146 @@
-# Hub de Estudos em Programacao | Nicollas Rodrigo
+# 📚 Hub de Estudos | Nicollas Rodrigo
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Foco](https://img.shields.io/badge/foco-programacao-blue)
-![Licenca](https://img.shields.io/badge/licenca-MIT-green)
+Bem-vindo ao meu Hub de Estudos!
 
-![Logo do hub de estudos](./assets/img/logo.svg)
+Este repositório reúne todos os meus estudos em programação, organizando cursos, exercícios e materiais de aprendizagem em um único lugar.
 
-## Sumario
+O objetivo deste hub é registrar minha evolução como estudante de tecnologia, mantendo meus repositórios organizados e facilitando a navegação para recrutadores, desenvolvedores e qualquer pessoa interessada em acompanhar minha jornada de aprendizado.
 
-- [JavaScript](https://github.com/NicollasRodrigo/CURSO-DE-JAVASCRIPT)
-- [Python](https://github.com/NicollasRodrigo/CURSO-DE-PYTHON)
-- [React](https://github.com/NicollasRodrigo/estudos-react)
-- [HTML](https://github.com/NicollasRodrigo/estudos-html)
-- [CSS](https://github.com/NicollasRodrigo/estudos-css)
-- [Node.js](https://github.com/NicollasRodrigo/estudos-nodejs)
-- [Git & GitHub](https://github.com/NicollasRodrigo/estudos-git-github)
-- [SQL](https://github.com/NicollasRodrigo/estudos-sql)
-- [Logica de Programacao](https://github.com/NicollasRodrigo/logica-programacao)
-- [Outros futuros](./docs/repositorios.md)
+---
 
-## Introducao
+# 👨‍💻 Sobre Mim
 
-Este repositorio e o ponto central da minha jornada de estudos em programacao. A proposta e manter um registro organizado da minha evolucao, reunindo links para repositorios por tecnologia, trilhas de aprendizado, projetos praticos e materiais de apoio.
+Olá! Meu nome é **Nicollas Rodrigo** e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-A estrutura foi pensada para ser simples de navegar, facil de manter e preparada para crescer conforme novos estudos e projetos forem adicionados.
+Criei este hub para organizar meus estudos, registrar minha evolução e reunir, em um único lugar, os cursos, exercícios e materiais que fazem parte da minha jornada de aprendizado.
 
-## Sobre Mim
+Meu principal objetivo é construir uma base sólida em programação, aplicar na prática os conhecimentos adquiridos durante os estudos e evoluir continuamente para conquistar minha primeira oportunidade profissional na área de tecnologia.
 
-Meu nome e **Nicollas Rodrigo**, tenho **18 anos** e moro em **Joao Pessoa, Paraiba**. Atualmente curso o **2o semestre de Analise e Desenvolvimento de Sistemas**.
+Acredito que o aprendizado é um processo contínuo. Por isso, estou sempre aberto a feedbacks, sugestões e boas práticas que possam contribuir para o meu desenvolvimento como desenvolvedor.
 
-Estou construindo este hub para registrar minha evolucao como desenvolvedor, consolidar meus estudos e transformar teoria em projetos praticos. Meu objetivo e conquistar minha primeira oportunidade na area de tecnologia, mantendo constancia, organizacao e abertura para feedbacks, sugestoes e boas praticas que contribuam para meu crescimento profissional.
+---
 
-## Objetivos
+# 🎯 Objetivos
 
-- Centralizar os repositorios de estudo por tecnologia.
-- Registrar a evolucao dos conteudos estudados.
-- Organizar aulas, exercicios e projetos de forma profissional.
-- Facilitar a navegacao para recrutadores, empresas, colegas e desenvolvedores.
-- Manter uma base escalavel para novas trilhas de aprendizado.
+- Centralizar meus estudos em um único repositório.
+- Organizar cursos, exercícios e materiais de apoio.
+- Registrar minha evolução durante a graduação.
+- Consolidar os conhecimentos adquiridos por meio da prática.
+- Manter um histórico organizado da minha jornada de aprendizado.
 
-## Tecnologias Estudadas
+---
 
+# 📖 Tecnologias que estou estudando
+
+Atualmente meus estudos estão focados em:
+
+- Lógica de Programação
+- HTML5
+- CSS3
 - JavaScript
+
+Também possuo noções básicas de:
+
+- Git
+- GitHub
 - Python
-- HTML
-- CSS
-- Java
-- React
-- Node.js
-- Git e GitHub
-- SQL
-- Logica de programacao
 
-## Roadmap de Aprendizado
+---
 
-| Etapa | Tema | Status |
-| --- | --- | --- |
-| 01 | Logica de programacao | Em andamento |
-| 02 | HTML e CSS | Em andamento |
-| 03 | JavaScript | Em andamento |
-| 04 | Git e GitHub | Em andamento |
-| 05 | Python | Planejado |
-| 06 | React | Planejado |
-| 07 | Node.js | Planejado |
-| 08 | SQL | Planejado |
-| 09 | Projetos integrados | Planejado |
+# 📚 Repositórios
 
-Veja o roadmap completo em [docs/roadmap.md](./docs/roadmap.md).
+| Tecnologia | Situação |
+|------------|----------|
+| HTML | 🟡 Em estudo |
+| CSS | 🟡 Em estudo |
+| JavaScript | 🟡 Em estudo |
+| Lógica de Programação | 🟡 Em estudo |
+| Git & GitHub | 🟢 Noções básicas |
+| Python | 🟢 Noções básicas |
+| React | ⚪ Planejado |
+| Node.js | ⚪ Planejado |
+| SQL | ⚪ Planejado |
 
-## Estrutura dos Repositorios
+---
 
-Cada tecnologia deve seguir um padrao simples:
+# 🛣️ Roadmap de Aprendizado
+
+| Etapa | Tecnologia | Status |
+|------|------------|--------|
+| 01 | Lógica de Programação | 🟡 Em andamento |
+| 02 | HTML5 | 🟡 Em andamento |
+| 03 | CSS3 | 🟡 Em andamento |
+| 04 | JavaScript | 🟡 Em andamento |
+| 05 | Git e GitHub | 🟢 Noções básicas |
+| 06 | Python | 🟢 Noções básicas |
+| 07 | React | ⚪ Planejado |
+| 08 | Node.js | ⚪ Planejado |
+| 09 | SQL | ⚪ Planejado |
+
+O roadmap completo pode ser consultado em:
+
+```text
+docs/roadmap.md
+```
+
+---
+
+# 📁 Estrutura dos Repositórios
+
+Todos os repositórios seguem uma estrutura semelhante para manter os estudos organizados e padronizados.
 
 ```text
 nome-do-repositorio/
-|-- README.md
-|-- docs/
-|-- aulas/
-|-- exercicios/
-|-- projetos/
-`-- assets/
+│
+├── README.md
+├── docs/
+├── aulas/
+├── exercicios/
+├── projetos/
+└── assets/
 ```
 
-Neste hub, a estrutura atual esta organizada assim:
+Estrutura atual deste Hub:
 
 ```text
 .
-|-- README.md
-|-- LICENSE
-|-- index.html
-|-- assets/
-|-- docs/
-|-- java/
-`-- javascript/
+├── README.md
+├── LICENSE
+├── docs/
+├── assets/
+├── java/
+├── javascript/
+└── index.html
 ```
 
-Detalhes do padrao estao em [docs/estrutura.md](./docs/estrutura.md).
+Mais detalhes podem ser encontrados em:
 
-## Como Navegar
+```text
+docs/estrutura.md
+```
 
-1. Comece pelo [sumario](#sumario) para acessar o repositorio de cada tecnologia.
-2. Consulte [docs/repositorios.md](./docs/repositorios.md) para ver a lista completa, status e proximos repositorios.
-3. Acesse [javascript/](./javascript/) para ver as aulas e experimentos que ja estavam neste workspace.
-4. Acesse [java/](./java/) para acompanhar os estudos separados de Java.
+---
 
-## Publicacao no GitHub
+# 🧭 Como Navegar
 
-O guia de publicacao esta em [docs/publicacao-github.md](./docs/publicacao-github.md). Ele mostra como criar o repositorio principal no GitHub e ajustar o remote sem perder a referencia do repositorio antigo de JavaScript.
+1. Escolha uma tecnologia na tabela de repositórios.
+2. Acesse o repositório correspondente.
+3. Consulte as aulas e os materiais disponíveis.
+4. Resolva os exercícios propostos.
+5. Acompanhe minha evolução conforme novos conteúdos forem adicionados.
 
-## Projetos Futuros
+---
 
-- Portfolio pessoal com HTML, CSS e JavaScript.
-- Calculadora e conversores com JavaScript.
-- Lista de tarefas com persistencia local.
-- Projetos React com componentes reutilizaveis.
-- API simples com Node.js.
-- Banco de dados com SQL.
+# 📬 Contato
 
-## Contato
+- **GitHub:** https://github.com/NicollasRodrigo
+- **GitLab:** https://gitlab.com/SEU-USUARIO
+- **Discord:** SEU_USUARIO
 
-- GitHub: [NicollasRodrigo](https://github.com/NicollasRodrigo)
-- LinkedIn: em atualizacao
+---
 
-## Licenca
+# 📄 Licença
 
-Este repositorio esta sob a licenca MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+Este repositório está licenciado sob a licença MIT.
+
+Consulte o arquivo **LICENSE** para mais informações.
