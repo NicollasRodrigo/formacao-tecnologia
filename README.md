@@ -10,7 +10,7 @@ Criei este repositório para acompanhar minha evolução, manter meus estudos or
 
 # 👨‍💻 Sobre Mim
 
-Meu nome é **Nicollas Rodrigo** e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Também possuo **Transtorno do Espectro Autista (TEA) – Nível 1 de suporte**.
+Meu nome é **Nicollas Rodrigo** e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Também possuo **Transtorno do Espectro Autista (TEA – Nível 1 de suporte)**.
 
 Tenho interesse em desenvolvimento de software e estou construindo minha base de conhecimentos por meio da graduação, de cursos e da prática constante.
 
