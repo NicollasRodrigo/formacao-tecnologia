@@ -1,5 +1,7 @@
 # 🚀 Repositório de estudos em JavaScript
 
+> Última atualização: 2026-07-19 21:46 (commit 0754030)
+
 Este repositório reúne exercícios, projetos e trilhas de estudo em JavaScript, com foco em organização, clareza e evolução técnica.
 
 ## 👤 Sobre mim
