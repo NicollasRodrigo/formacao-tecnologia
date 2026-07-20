@@ -67,18 +67,17 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
 
 # 📂 Repositórios
 
-| Tecnologia            | Repositório                                                                   | Situação                 |
-| --------------------- | ----------------------------------------------------------------------------- | ------------------------ |
-| HTML                  | [estudos-html](https://github.com/NicollasRodrigo/estudos-html)               | 🟡 Em andamento          |
-| CSS                   | [estudos-css](https://github.com/NicollasRodrigo/estudos-css)                 | 🟡 Em andamento          |
-| JavaScript            | [CURSO-DE-JAVASCRIPT](https://github.com/NicollasRodrigo/CURSO-DE-JAVASCRIPT) | 🟡 Em andamento          |
-| Lógica de Programação | [logica-programacao](https://github.com/NicollasRodrigo/logica-programacao)   | 🟢 Conhecimentos básicos |
-| Git & GitHub          | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github)   | 🟢 Conhecimentos básicos |
-| Python                | [CURSO-DE-PYTHON](https://github.com/NicollasRodrigo/CURSO-DE-PYTHON)         | 🟢 Conhecimentos básicos |
-| React                 | [estudos-react](https://github.com/NicollasRodrigo/estudos-react)             | ⚪ Planejado              |
-| Node.js               | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs)           | ⚪ Planejado              |
-| SQL                   | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql)                 | ⚪ Planejado              |
-
+| Tecnologia | Repositório | Status |
+|------------|-------------|--------|
+| HTML | [estudos-html](https://github.com/NicollasRodrigo/estudos-html) | 🟡 Em andamento |
+| CSS | [estudos-css](https://github.com/NicollasRodrigo/estudos-css) | 🟡 Em andamento |
+| JavaScript | [javascript](https://github.com/NicollasRodrigo/-Jornada-de-Estudos-Nicollas-Rodrigo/tree/main/javascript) | 🟡 Em andamento |
+| Lógica de Programação | [logica-programacao](https://github.com/NicollasRodrigo/logica-programacao) | 🟢 Noções básicas |
+| Git & GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | 🟢 Noções básicas |
+| Python | [CURSO-DE-PYTHON](https://github.com/NicollasRodrigo/CURSO-DE-PYTHON) | 🟢 Noções básicas |
+| React | [estudos-react](https://github.com/NicollasRodrigo/estudos-react) | ⚪ Planejado |
+| Node.js | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs) | ⚪ Planejado |
+| SQL | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql) | ⚪ Planejado |
 ---
 
 # 🛣️ Roadmap de Aprendizado
@@ -158,8 +157,8 @@ Acredito que compartilhar conhecimento e receber orientações faz parte da evol
 # 📬 Contato
 
 * **GitHub:** https://github.com/NicollasRodrigo
-* **GitLab:** https://gitlab.com/SEU-USUARIO
-* **Discord:** SEU_USUARIO
+* **GitLab:** https://gitlab.com/NicollasRodrigo
+* **Discord:** 
 
 ---
 
